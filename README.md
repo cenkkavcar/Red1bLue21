@@ -8,7 +8,7 @@ Welcome to my GitHub repository! This is a space where I will share various Pyth
 
 - **Personal Website**: My personal website hosted on GitHub Pages, showcasing my project
 
-Future Plans
+## Future Plans
 
 I am continuously working on enhancing my skills and expanding my projects. Some future features I plan to add include:
 
@@ -18,6 +18,6 @@ Interactive features on my personal website.
 
 A blog section to share insights and experiences.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new project ideas, feel free to fork the repository and submit a pull request.
