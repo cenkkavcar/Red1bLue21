@@ -1,8 +1,23 @@
-My Personal Website
+# My Personal Website and Python Projects
 
-Welcome to my personal website, hosted on GitHub Pages!
+Welcome to my GitHub repository! This is a space where I will share various Python scripts for small projects and host my personal website. I plan to continually add new features and projects over time.
 
-About
+## What You Will Find Here
 
-This site is a showcase of my projects and a place where I share what I’m learning in software development. 
-You’ll find examples of my Python scripts, and any other tools or technologies I’m exploring.
+- **Python Scripts**: A collection of small Python scripts designed for various purposes. These scripts are intended to help you learn and understand different programming concepts and practical applications.
+
+- **Personal Website**: My personal website hosted on GitHub Pages, showcasing my project
+
+Future Plans
+
+I am continuously working on enhancing my skills and expanding my projects. Some future features I plan to add include:
+
+Additional Python scripts for more complex projects.
+
+Interactive features on my personal website.
+
+A blog section to share insights and experiences.
+
+Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new project ideas, feel free to fork the repository and submit a pull request.
