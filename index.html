@@ -31,9 +31,24 @@
 
     <script>
         const toggleButton = document.getElementById('toggleButton');
+
+        // Function to update button text based on the current mode
+        function updateButtonText() {
+            if (document.body.classList.contains('dark-mode')) {
+                toggleButton.textContent = 'Toggle Light Mode';
+            } else {
+                toggleButton.textContent = 'Toggle Dark Mode';
+            }
+        }
+
+        // Event listener to toggle dark mode and update button text
         toggleButton.addEventListener('click', () => {
             document.body.classList.toggle('dark-mode');
+            updateButtonText();
         });
+
+        // Initial button text update
+        updateButtonText();
     </script>
 </body>
 </html>
